@@ -20,7 +20,7 @@ class App extends Component {
         return (
             <div className="App">
                 <div className="App-header">
-                    <img src={logo} className="App-logo" alt="logo" />
+                    <img src="favicon-96x96.png" className="App-logo" alt="logo" />
                     <h2>Welcome to a Vert.x-based reactive chat</h2>
                 </div>
                 <p className="App-intro">
