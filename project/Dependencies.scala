@@ -12,6 +12,7 @@ object Library {
   val vertx_hazelcast                   = "io.vertx" %  "vertx-hazelcast"                         % Version.Vertx
   val vertx_web                         = "io.vertx" %% "vertx-web-scala"                         % Version.Vertx
 
+  val vertx_service_factory             = "io.vertx" %  "vertx-service-factory"                   % Version.Vertx
   val vertx_mqtt_server                 = "io.vertx" %% "vertx-mqtt-server-scala"                 % Version.Vertx
   val vertx_sql_common                  = "io.vertx" %% "vertx-sql-common-scala"                  % Version.Vertx
   val vertx_bridge_common               = "io.vertx" %% "vertx-bridge-common-scala"               % Version.Vertx
